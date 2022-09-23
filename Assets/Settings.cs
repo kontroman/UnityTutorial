@@ -11,4 +11,5 @@ public class Settings : MonoBehaviour
         isFullScreen = !isFullScreen;
         Screen.fullScreen = isFullScreen;
     }
+   
 }
