@@ -17,7 +17,7 @@ public class Settings : MonoBehaviour
     }
 
 
-    public MasterVolume am;
+    public AudioMixer am;
 
     public void AudioVolume(float sliderValue)
     {
